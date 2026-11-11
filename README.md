@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # InfoSnity | Institutional Information Portal Backend
 
 A robust Node.js/Express backend service for the InfoSnity platform - a centralized institutional information portal built to handle API requests, data processing, and business logic for 300+ concurrent users.
@@ -200,7 +199,7 @@ This project is licensed under the MIT License.
 
 ## 🌐 Related Projects
 
-- **Frontend**: [Infty-Frontend](https://github.com/sandeep2811-dev/Infty-frontend) - Live: https://infty-frontend.vercel.app/
+- **Frontend**: [Infty-Frontend](https://github.com/Nikhilseelam1/Infosnity-Frontend) - Live: https://infty-frontend.vercel.app/
 
 ## 📞 Support
 
@@ -211,4 +210,3 @@ For support and inquiries, please open an issue on the GitHub repository or cont
 **Built with ❤️ for institutional information management**
 =======
 # Infosnity-Backend
->>>>>>> 90645448b6eb51e8095e5aac051d7fda7065c99e
