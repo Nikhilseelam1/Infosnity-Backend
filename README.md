@@ -196,9 +196,7 @@ This backend follows API-contract-first development principles, enabling:
 This project is licensed under the MIT License.
 
 ## 👤 Author
-
-**Sandeep Pullareddy**
-- GitHub: [@sandeep2811-dev](https://github.com/sandeep2811-dev)
+** NIKHIL SEELAM **
 
 ## 🌐 Related Projects
 
