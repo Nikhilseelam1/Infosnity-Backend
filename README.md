@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InfoSnity | Institutional Information Portal Backend
 
 A robust Node.js/Express backend service for the InfoSnity platform - a centralized institutional information portal built to handle API requests, data processing, and business logic for 300+ concurrent users.
@@ -210,3 +211,6 @@ For support and inquiries, please open an issue on the GitHub repository or cont
 ---
 
 **Built with ❤️ for institutional information management**
+=======
+# Infosnity-Backend
+>>>>>>> 90645448b6eb51e8095e5aac051d7fda7065c99e
